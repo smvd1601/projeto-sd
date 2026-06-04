@@ -1,0 +1,18 @@
+ID: 1
+Nome: bela
+Espécie: cachorro
+Raça: pinscher
+Idade: 8
+Estado de saúde: bom
+Data de chegada: 02/03/2018
+Comportamento: docil
+------------------------------
+ID: 2
+Nome: loki
+Espécie: Cane Corso
+Raça: labrador
+Idade: 3
+Estado de saúde: bom
+Data de chegada: 23/05/2023
+Comportamento: docil
+------------------------------
